@@ -2,16 +2,13 @@
 
 # 🚀 Project Title
 
-> A one-line tagline or mission statement for your project.
+Real-Time E-Commerce Monitoring with Fluvio
 
----
+
 
 ## 📌 Problem Statement
 
-Select the problem statement number and title from the official list given in Participant Manual.
-
-**Example:**  
-**Problem Statement 7 – Transform the Future of Rural Commerce**
+Problem Statement 3: Real Time Data Experiences with Fluvio  **
 
 ---
 
@@ -24,10 +21,10 @@ Introducing a cutting-edge solution to revolutionize e-commerce analytics. With 
 ## 🧠 Team & Approach
 
 ### Team Name:  
-Hacknetic
+N/A (Solo Hacker)
 
 ### Team Members:  
-- Name 1 (Sushobhan Ghosh)
+-  (Sushobhan Ghosh)
 - 
 
 ### Your Approach:  
@@ -70,22 +67,22 @@ Live dashboards via Grafana or Tableau
 Instant actionable insights
 Custom alerts and monitoring
 Generative AI is experimental.
-Add images, GIFs, or screenshots if helpful!
+
 
 ---
 
 ## 📽️ Demo & Deliverables
 
-- **Demo Video Link:** [Paste YouTube or Loom link here]  
-- **Pitch Deck / PPT Link:** [Paste Google Slides / PDF link here]  
+- **Demo Video Link:** https://github.com/sushobhan500/HackHazard2025 
+- **Pitch Deck / PPT Link:** (https://github.com/sushobhan500/HackHazard2025)
 
 ---
 
 ## ✅ Tasks & Bonus Checklist
 
-- [ ] **All members of the team completed the mandatory task - Followed at least 2 of our social channels and filled the form** (Details in Participant Manual)  
-- [ ] **All members of the team completed Bonus Task 1 - Sharing of Badges and filled the form (2 points)**  (Details in Participant Manual)
-- [ ] **All members of the team completed Bonus Task 2 - Signing up for Sprint.dev and filled the form (3 points)**  (Details in Participant Manual)
+- [Done ] **All members of the team completed the mandatory task - Followed at least 2 of our social channels and filled the form** (Details in Participant Manual)  
+- [ Not Done] **All members of the team completed Bonus Task 1 - Sharing of Badges and filled the form (2 points)**  (Details in Participant Manual)
+- [ Not Done] **All members of the team completed Bonus Task 2 - Signing up for Sprint.dev and filled the form (3 points)**  (Details in Participant Manual)
 
 *(Mark with ✅ if completed)*
 
@@ -93,12 +90,5 @@ Add images, GIFs, or screenshots if helpful!
 
 ## 🧪 How to Run the Project
 
-### Requirements:
-- Node.js / Python / Docker / etc.
-- API Keys (if any)
-- .env file setup (if needed)
-
-### Local Setup:
-```bash
-
+Open the zip file and download the files and launch it
 
